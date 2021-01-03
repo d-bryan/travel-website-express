@@ -1,0 +1,15 @@
+# node modules
+node_modules
+
+# environment variables
+.env
+.env.example
+.env.test
+
+# config files
+config
+config/*
+
+# seed files
+seed
+seed/*

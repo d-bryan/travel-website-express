@@ -1,0 +1,6 @@
+{
+  "verbose": true,
+  "watch": ["./bin/www"],
+  "ignore": ["*test.js"],
+  "delay": "1"
+}
